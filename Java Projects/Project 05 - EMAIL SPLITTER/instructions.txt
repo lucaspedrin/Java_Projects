@@ -1,0 +1,1 @@
+Split email information into username and domain.

@@ -1,0 +1,1 @@
+Convert temperature values from Celsius to Fahrenheit, or vice-versa.
